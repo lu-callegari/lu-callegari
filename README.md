@@ -6,8 +6,13 @@
 Here are some ideas to get you started:
 
 - Atualmente estou estudando;
+
 - Quero cursar ciências biológicas;
+
 - Tenho cinco gatos; 
+
 - Minha cor favorita é verde;
+
 - Gosto de filmes e séries;
+
 - Chernobyl não é lugar mais radioativo do mundo.
