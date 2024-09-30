@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- Atualmente estou estudando;
+## - Atualmente estou estudando;
 
-- Quero cursar ciências biológicas;
+## - Quero cursar ciências biológicas;
 
-- Tenho cinco gatos; 
+## - Tenho cinco gatos; 
 
-- Minha cor favorita é verde;
+## - Minha cor favorita é verde;
 
-- Gosto de filmes e séries;
+## - Gosto de filmes e séries;
 
-- Chernobyl não é lugar mais radioativo do mundo.
+## - Chernobyl não é lugar mais radioativo do mundo.
